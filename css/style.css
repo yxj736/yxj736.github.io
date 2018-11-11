@@ -1,0 +1,24 @@
+h1 {
+	color: #c13f3f;
+	font-size: 80px;
+	text-align: center;
+	background: #b79a9a;
+}
+p {
+	font-family:Times New Roman;
+	font-size: 20px;
+	p.center {text-align:center;}
+
+}
+html { 
+  background: url(https://www.themanufacturer.com/wp-content/uploads/2014/08/Aston-Webb-and-Old-Joe.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.red-text{
+	color: red;
+}
